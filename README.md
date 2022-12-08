@@ -3,9 +3,9 @@ Here are about my ms-cloud project Details:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 project links:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Github Reprository Link:
+Github Reprository Link:https://github.com/meharunnisask/pathology-services
 
-Github Project Link:
+Github Project Link:https://meharunnisask.github.io/pathology-services/
 
 Azure project Link:https://gentle-ground-062ef7910.2.azurestaticapps.net
 
