@@ -7,9 +7,9 @@ Github Reprository Link:
 
 Github Project Link:
 
-Azure project Link:
+Azure project Link:https://gentle-ground-062ef7910.2.azurestaticapps.net
 
-Azure Health Bot link:
+Azure Health Bot link:https://eastus.healthbot.microsoft.com/account/pathologybot-h2y2uio
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -34,8 +34,18 @@ Health Bot, Static Web Apps,
 Project ScreenShots:
 
 Home page:
+![homepagep](https://user-images.githubusercontent.com/119919863/206405749-fa500bc0-f437-4184-942c-53c5cb054c42.png)
 
 About us page:
+![about projectp](https://user-images.githubusercontent.com/119919863/206405780-f385f397-5eb1-4101-ad02-a48824c71270.png)
 
+Treatments page:
 
+![treatmentsp](https://user-images.githubusercontent.com/119919863/206405774-01494eb7-335e-4a44-8f3d-90da200a70a4.png)
+
+Consent Bot Page:
+![consent botp](https://user-images.githubusercontent.com/119919863/206405789-be400ebb-ef93-4a9a-a6ef-bd79938386d3.png)
+
+Contact Us page:
+![contactusp](https://user-images.githubusercontent.com/119919863/206405792-0c8042fa-1a1f-495d-876c-d36441ffe74e.png)
 
