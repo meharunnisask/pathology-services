@@ -53,3 +53,15 @@ Consent Bot Page:
 Contact Us page:
 ![contactusp](https://user-images.githubusercontent.com/119919863/206405792-0c8042fa-1a1f-495d-876c-d36441ffe74e.png)
 
+Bot Functionality Screenshots:
+
+![health bot functionality1](https://user-images.githubusercontent.com/119919863/208377488-1d82e323-6a0c-4f17-9dec-3b9de00448b0.png)
+
+![health bot functionality 2](https://user-images.githubusercontent.com/119919863/208377561-9be1c0a7-03e3-446c-98c0-7c1a0db48fed.png)
+
+![health bot functionality3](https://user-images.githubusercontent.com/119919863/208377630-a33e2e67-8e10-4afe-9e23-ea76f22f00e4.png)
+
+![health bot functionality5](https://user-images.githubusercontent.com/119919863/208377712-d227e532-eaca-45ae-b9f5-7c90a66566be.png)
+
+![Health bot functionality6](https://user-images.githubusercontent.com/119919863/208377749-1f12d7c2-5be1-4c3a-9f58-392642ad28b9.png)
+
