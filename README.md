@@ -9,7 +9,6 @@ Github Project Link:https://meharunnisask.github.io/pathology-services/
 
 Azure project Link:https://gentle-ground-062ef7910.2.azurestaticapps.net
 
-Azure Health Bot link:https://eastus.healthbot.microsoft.com/account/pathologybot-h2y2uio
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
