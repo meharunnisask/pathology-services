@@ -52,6 +52,17 @@ Consent Bot Page:
 Contact Us page:
 ![contactusp](https://user-images.githubusercontent.com/119919863/206405792-0c8042fa-1a1f-495d-876c-d36441ffe74e.png)
 
+
+static web app:
+
+![2022-12-22 (1)](https://user-images.githubusercontent.com/119919863/209088644-0d558f2a-42c1-4578-827d-84d495fbac84.png)
+
+
+azure health bot:
+![2022-12-22](https://user-images.githubusercontent.com/119919863/209088582-7256c54f-e70b-4f08-810c-a37a39f1aa8c.png)
+
+
+
 Bot Functionality Screenshots:
 
 ![health bot functionality1](https://user-images.githubusercontent.com/119919863/208377488-1d82e323-6a0c-4f17-9dec-3b9de00448b0.png)
