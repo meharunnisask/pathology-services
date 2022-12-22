@@ -36,7 +36,7 @@ JAVA Script
 
 Project ScreenShots:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# azure resorces,static web app, healthbot
+# azure resorces,static web app, healthbot :
 azure resorces page:
 
 
@@ -56,17 +56,17 @@ azure scenario management:
 
 ![2022-12-22 (3)](https://user-images.githubusercontent.com/119919863/209096185-049fb8e5-c3de-433d-854a-6d890eaa7962.png)
 
-# text in web chat 1
+# test in web chat 1
 
 
 
 ![2022-12-22 (4)](https://user-images.githubusercontent.com/119919863/209096423-c92f0755-1ee8-4495-9ba6-b385b68c12d4.png)
 
-# text in web chat 2
+# test in web chat 2
 
 ![2022-12-22 (5)](https://user-images.githubusercontent.com/119919863/209096490-38b5ca75-4d64-4e79-b2c5-3cb12846e24f.png)
 
-# text in web chat 3
+# test in web chat 3
 
 ![2022-12-22 (6)](https://user-images.githubusercontent.com/119919863/209096569-37a14d41-037e-4822-9dd5-61705022f29a.png)
 
