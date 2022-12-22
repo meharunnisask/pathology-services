@@ -36,6 +36,41 @@ JAVA Script
 
 Project ScreenShots:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# azure resorces,static web app, healthbot
+azure resorces page:
+
+
+![2022-12-22 (2)](https://user-images.githubusercontent.com/119919863/209093814-371faab1-18dd-4e61-b561-4d8710ac0716.png)
+azure static web app:
+
+![2022-12-22 (1)](https://user-images.githubusercontent.com/119919863/209088644-0d558f2a-42c1-4578-827d-84d495fbac84.png)
+
+
+azure health bot:
+![2022-12-22](https://user-images.githubusercontent.com/119919863/209088582-7256c54f-e70b-4f08-810c-a37a39f1aa8c.png)
+
+
+
+azure scenario management:
+
+
+![2022-12-22 (3)](https://user-images.githubusercontent.com/119919863/209096185-049fb8e5-c3de-433d-854a-6d890eaa7962.png)
+
+# text in web chat 1
+
+
+
+![2022-12-22 (4)](https://user-images.githubusercontent.com/119919863/209096423-c92f0755-1ee8-4495-9ba6-b385b68c12d4.png)
+
+# text in web chat 2
+
+![2022-12-22 (5)](https://user-images.githubusercontent.com/119919863/209096490-38b5ca75-4d64-4e79-b2c5-3cb12846e24f.png)
+
+# text in web chat 3
+
+![2022-12-22 (6)](https://user-images.githubusercontent.com/119919863/209096569-37a14d41-037e-4822-9dd5-61705022f29a.png)
+
+
 Home page:
 ![homepagep](https://user-images.githubusercontent.com/119919863/206405749-fa500bc0-f437-4184-942c-53c5cb054c42.png)
 
@@ -53,13 +88,10 @@ Contact Us page:
 ![contactusp](https://user-images.githubusercontent.com/119919863/206405792-0c8042fa-1a1f-495d-876c-d36441ffe74e.png)
 
 
-static web app:
-
-![2022-12-22 (1)](https://user-images.githubusercontent.com/119919863/209088644-0d558f2a-42c1-4578-827d-84d495fbac84.png)
 
 
-azure health bot:
-![2022-12-22](https://user-images.githubusercontent.com/119919863/209088582-7256c54f-e70b-4f08-810c-a37a39f1aa8c.png)
+
+
 
 
 
