@@ -9,6 +9,7 @@ Github Project Link:https://meharunnisask.github.io/pathology-services/
 
 Azure project Link:https://gentle-ground-062ef7910.2.azurestaticapps.net
 
+Project demo link:https://www.youtube.com/watch?v=RnV0dVIQu78
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
